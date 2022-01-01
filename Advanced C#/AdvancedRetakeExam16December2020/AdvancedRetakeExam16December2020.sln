@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cooking", "Cooking\Cooking.csproj", "{F8329017-3490-4ABB-8071-46FBA1C78724}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selling", "Selling\Selling.csproj", "{73C81204-76C9-46CE-A798-2C8EBFA7B170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakeryOpenning", "BakeryOpenning\BakeryOpenning.csproj", "{26D9571D-5646-4F35-BDA1-54C5AA0F207D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8329017-3490-4ABB-8071-46FBA1C78724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8329017-3490-4ABB-8071-46FBA1C78724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8329017-3490-4ABB-8071-46FBA1C78724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8329017-3490-4ABB-8071-46FBA1C78724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C81204-76C9-46CE-A798-2C8EBFA7B170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C81204-76C9-46CE-A798-2C8EBFA7B170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C81204-76C9-46CE-A798-2C8EBFA7B170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C81204-76C9-46CE-A798-2C8EBFA7B170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D9571D-5646-4F35-BDA1-54C5AA0F207D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D9571D-5646-4F35-BDA1-54C5AA0F207D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D9571D-5646-4F35-BDA1-54C5AA0F207D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D9571D-5646-4F35-BDA1-54C5AA0F207D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB03215-29B2-4B7B-B757-CDFC2A4B0732}
+	EndGlobalSection
+EndGlobal

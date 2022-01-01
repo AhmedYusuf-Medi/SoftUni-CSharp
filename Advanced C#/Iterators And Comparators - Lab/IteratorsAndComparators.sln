@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.LibraryIterator", "IteratorsAndComparators\01.LibraryIterator.csproj", "{39F51C18-F688-4D9D-84DC-43519CE8618C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ComparableBook", "02.ComparableBook\02.ComparableBook.csproj", "{B6ABA9F8-9713-4324-A729-4D90914C1B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F51C18-F688-4D9D-84DC-43519CE8618C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F51C18-F688-4D9D-84DC-43519CE8618C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F51C18-F688-4D9D-84DC-43519CE8618C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F51C18-F688-4D9D-84DC-43519CE8618C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6ABA9F8-9713-4324-A729-4D90914C1B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ABA9F8-9713-4324-A729-4D90914C1B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ABA9F8-9713-4324-A729-4D90914C1B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ABA9F8-9713-4324-A729-4D90914C1B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116D7391-3E8F-40D3-BC88-6A2496944D5E}
+	EndGlobalSection
+EndGlobal

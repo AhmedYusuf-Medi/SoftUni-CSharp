@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlowerWreaths", "FlowerWreaths\FlowerWreaths.csproj", "{DC73C702-2C1C-4F4B-B14F-15C15F68317D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bee", "Bee\Bee.csproj", "{838BD808-15CD-4963-99BF-44DC54497CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetClinic", "VetClinic\VetClinic.csproj", "{B86553AB-84FE-45CC-844A-F2C821873A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC73C702-2C1C-4F4B-B14F-15C15F68317D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC73C702-2C1C-4F4B-B14F-15C15F68317D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC73C702-2C1C-4F4B-B14F-15C15F68317D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC73C702-2C1C-4F4B-B14F-15C15F68317D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838BD808-15CD-4963-99BF-44DC54497CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838BD808-15CD-4963-99BF-44DC54497CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838BD808-15CD-4963-99BF-44DC54497CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838BD808-15CD-4963-99BF-44DC54497CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86553AB-84FE-45CC-844A-F2C821873A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86553AB-84FE-45CC-844A-F2C821873A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86553AB-84FE-45CC-844A-F2C821873A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86553AB-84FE-45CC-844A-F2C821873A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2340557B-7287-414B-9DCB-895D37A7135B}
+	EndGlobalSection
+EndGlobal
