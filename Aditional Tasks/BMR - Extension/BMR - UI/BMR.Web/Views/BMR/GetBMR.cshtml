@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "GetBMR";
+}
+@model BMR.Models.Service.Models.Response.BMR.CalculateBMRResponseModel
+
+    <div class="about">
+        <h1>@Model.Message</h1>
+
+        <h3>Your Basal Metabolic rate is : @Model.BMR</h3>
+        <h3>Your Basal Metabolic rate with activity is : @Model.BMRWithActivity</h3>
+        <br>
+        <h3>I would suggest you to train like an lost minotaur!</h3>
+    </div>

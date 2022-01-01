@@ -1,0 +1,37 @@
+OOP Project's - started by my self
+
+BMR is short for Basal Metabolic Rate Your Basal Metabolic Rate
+is the number of calories required to keep your body functioning at rest, 
+also known as your metabolism.
+
+What affects my BMR?
+Anything that results in an increase 
+to your metabolic rate will increase your BMR.
+This includes exercise, stress, fear and illnesses.
+
+Your BMR is relative to body mass, age, weight and height. 
+It is also affected by your gender; 
+as it widely regarded that men need more calories than women.
+
+BMR formula
+There are 2 formulae used to calculate BMR, 
+in [kcal / 24hrs] for men and women respectively:
+
+BMR for Men = 66.47 + (13.75 * weight [kg]) + (5.003 * size [cm]) − (6.755 * age [years])
+BMR for Women = 655.1 + (9.563 * weight [kg]) + (1.85 * size [cm]) − (4.676 * age [years])
+
+Person - Аge [15-80] , gender, height, weight
+
+Harris Benedict Formula
+Once you’ve calculated your BMR, this is then put into the Harris Benedict Formula , which calculates your total calorie intake required to maintain your current weight. This is as follows:
+
+Little/no exercise: BMR * 1.2 = Total Calorie Need
+Light exercise: BMR * 1.375 = Total Calorie Need
+Moderate exercise (3-5 days/wk): BMR * 1.55 = Total Calorie Need
+Very active (6-7 days/wk): BMR * 1.725 = Total Calorie Need
+Extra active (very active & physical job): BMR * 1.9 = Total Calorie Need
+
+Men
+20
+180
+77

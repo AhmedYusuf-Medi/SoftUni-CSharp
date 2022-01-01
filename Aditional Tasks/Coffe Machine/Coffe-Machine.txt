@@ -1,0 +1,12 @@
+						Cofee Machine
+
+TO DO
+
+Finish and think about core part
+
+Implement commands
+
+Do a examplary input
+
+Play with the console
+
