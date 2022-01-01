@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.PasswordReset", "PasswordReset\01.PasswordReset.csproj", "{DCAC0D04-D396-4422-991C-9DEB9285B9F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Concert", "Concert\01.Concert.csproj", "{F8653F7B-5292-491E-B2BD-A8F5EAC2F127}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SongEncrypt", "02.SongEncrypt\02.SongEncrypt.csproj", "{E9C9BFF6-DD16-49A2-8A38-9D0C402604AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.VaporWinterSale", "01.VaporWinterSale\01.VaporWinterSale.csproj", "{1C7C7D87-01B2-4324-8065-958FCF29DFC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAC0D04-D396-4422-991C-9DEB9285B9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAC0D04-D396-4422-991C-9DEB9285B9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAC0D04-D396-4422-991C-9DEB9285B9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAC0D04-D396-4422-991C-9DEB9285B9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8653F7B-5292-491E-B2BD-A8F5EAC2F127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8653F7B-5292-491E-B2BD-A8F5EAC2F127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8653F7B-5292-491E-B2BD-A8F5EAC2F127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8653F7B-5292-491E-B2BD-A8F5EAC2F127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C9BFF6-DD16-49A2-8A38-9D0C402604AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C9BFF6-DD16-49A2-8A38-9D0C402604AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C9BFF6-DD16-49A2-8A38-9D0C402604AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C9BFF6-DD16-49A2-8A38-9D0C402604AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7C7D87-01B2-4324-8065-958FCF29DFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7C7D87-01B2-4324-8065-958FCF29DFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7C7D87-01B2-4324-8065-958FCF29DFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7C7D87-01B2-4324-8065-958FCF29DFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7262A211-AC94-4C41-A606-D4C18280ABC6}
+	EndGlobalSection
+EndGlobal
